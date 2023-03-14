@@ -1,0 +1,7 @@
+C:\Users\soned\Videos\programas vs\kevin\obj\Debug\net6.0-windows\kevin.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas vs\kevin\obj\Debug\net6.0-windows\kevin.Animal.resources
+C:\Users\soned\Videos\programas vs\kevin\obj\Debug\net6.0-windows\kevin.csproj.GenerateResource.cache
+C:\Users\soned\Videos\programas vs\kevin\obj\Debug\net6.0-windows\kevin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soned\Videos\programas vs\kevin\obj\Debug\net6.0-windows\kevin.AssemblyInfoInputs.cache
+C:\Users\soned\Videos\programas vs\kevin\obj\Debug\net6.0-windows\kevin.AssemblyInfo.cs
+C:\Users\soned\Videos\programas vs\kevin\obj\Debug\net6.0-windows\kevin.csproj.CoreCompileInputs.cache
